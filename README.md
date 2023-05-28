@@ -1,17 +1,9 @@
 # 中文文案排版指北
-[![devDependency Status](https://david-dm.org/mzlogin/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/mzlogin/chinese-copywriting-guidelines#info=devDependencies)
-
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-给本项目提建议和意见，或想与我交流，可关注微信公众号「闷骚的程序员」：
+其他语言排版指导:
 
-<img src="https://cdn.jsdelivr.net/gh/mzlogin/mzlogin.github.io/assets/images/qrcode.jpg" style="width:120px;height:120px;" >
-
-Other languages:
-
-- [English](README.en.md)
-- [Chinese Traditional](https://github.com/sparanoid/chinese-copywriting-guidelines)
-- [Chinese Simplified](README.md)
+- [英文文案排版指北](EN-README.md)
 
 -----
 
